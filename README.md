@@ -4,7 +4,7 @@
 - 👯 Com projetos e empresas 
 - 🤔 Estou em busca de me torna um programador mais qualificado para o mercado de trabalho 
 - 💬 Sou estudante universitario 
-- 📫 Meu email: pablogabrielribeiroferreira@gmail.com
+- 📫 Meu email: pgrf.ads@gmail.com
 
 ![Revecksouls GitHub stats](https://github-readme-stats.vercel.app/api?username=revecksouls&show_icons=true&theme=dracula)
 <div>
